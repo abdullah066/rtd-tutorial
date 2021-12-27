@@ -1,22 +1,19 @@
 Welcome to Sovryn Origins Wiki
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Powered by Sovryn, Origins is an exciting way for new projects to kickstart their community and receive funding. Origins provides the tools for startups to show individuality yet still have access to an entire community in the areas where support is needed most.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Origins has the distinct benefit of being built on the foundation of Sovryn, one of the world’s fastest growing Bitcoin ecosystems. Sovryn has support from a powerful community & key industry stakeholders.
 
 .. note::
 
-   This project is under active development.
+   DEFI IS GROWING FAST
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   Babelfish  
+   MYNT
+   ZERO
